@@ -1,0 +1,28 @@
+body {
+    background-color: darkseagreen;
+    /* margin: 50px 0 0 100px; */
+    position: relative;
+    display: flex;
+    text-align: center;
+
+}
+
+.Container {
+     width: 50%;
+     justify-content: center;
+     margin-left: 25%;
+}
+
+h1 {
+    font-size: 5em;
+    /* margin: 5px 0 200px 200px; */
+    padding: 0; 
+}
+
+
+
+#results {
+    margin: 2vh;
+}
+
+
